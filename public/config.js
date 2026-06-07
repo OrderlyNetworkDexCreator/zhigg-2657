@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "",
-  "VITE_AVAILABLE_LANGUAGES": "zh,en,tc,ja,ko,es,de,vi,ru,fr,tr,id,pt,it,pl,uk,nl",
+  "VITE_AVAILABLE_LANGUAGES": "zh,en,tc,ja,ko,es,de,vi,ru,fr,tr,id,pt,it,pl,uk,nl,ar,he,fa",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
